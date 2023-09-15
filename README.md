@@ -7,7 +7,7 @@
 
 # Extra stuffs here
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtelierMizumi) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtelierMizumi&hide=Makefile) 
 
 ![AtelierMizumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtelierMizumi&show_icons=true&theme=tokyonight)
 
