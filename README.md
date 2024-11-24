@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @AtelierMizumi aka thuanc177
 - 👀 Currently a second year at VKU - Vietnam - Korea University of Information and Communication Technology
-- 📫 Email: <a href="thuanc177@gmail.com">**thuanc177@gmail.com**</a><br>
+- 📫 Email: <a href="contact@thuanc177.me">**contact@thuanc177.me**</a><br>
 - 🎮 I often play relaxing games, some gacha games and [osu!](https://osu.ppy.sh/u/thuanc177)
 
 ***
