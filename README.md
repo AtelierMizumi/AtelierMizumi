@@ -1,30 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Welcome%20👋&textBg=false)
-
-# Hello, I'm Minh Thuận Trần
-
-Currently an 2nd year student at VKU in Da Nang.
+![Clearday](https://raw.githubusercontent.com/AtelierMizumi/AtelierMizumi/main/Clearday.jpg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thuanc177.me-blue?style=for-the-badge&logo=vercel)](https://thuanc177.me)
 [![GitHub](https://img.shields.io/badge/GitHub-AtelierMizumi-black?style=for-the-badge&logo=github)](https://github.com/AtelierMizumi)
 [![Email](https://img.shields.io/badge/Email-contact@thuanc177.me-red?style=for-the-badge&logo=gmail)](mailto:contact@thuanc177.me)
 
-## 💻 Tech Stacks
+<img src="https://img.shields.io/badge/arch%20linux-%231793d1.svg?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch Linux" /> ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) <img src="https://img.shields.io/badge/linux%20mint-%2387cf3e.svg?logo=linuxmint&logoColor=white&style=for-the-badge" alt="Linux Mint" /> <img src="https://img.shields.io/badge/debian-%23a81d33.svg?logo=debian&logoColor=white&style=for-the-badge" alt="Debian" /> <img src="https://img.shields.io/badge/ubuntu-%23e95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" /> <img src="https://img.shields.io/badge/android-%233ddc84.svg?logo=android&logoColor=white&style=for-the-badge" alt="Android" /> <img src="https://img.shields.io/badge/lineageos-%23167c80.svg?logo=lineageos&logoColor=white&style=for-the-badge" alt="LineageOS" /> <img src="https://img.shields.io/badge/ios-%23000000.svg?logo=ios&logoColor=white&style=for-the-badge" alt="iOS" />
+
 
 <img src="https://img.shields.io/badge/java-%23ed8b00.svg?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" /> <img src="https://img.shields.io/badge/kotlin-%230095d5.svg?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin" /> <img src="https://img.shields.io/badge/c-%2300599c.svg?logo=c&logoColor=white&style=for-the-badge" alt="C" /> <img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" /> <img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" alt="JavaScript" /> <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" /> <img src="https://img.shields.io/badge/json-%23000000.svg?logo=json&logoColor=white&style=for-the-badge" alt="JSON" /> <img src="https://img.shields.io/badge/mysql-%234479a1.svg?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" /> <img src="https://img.shields.io/badge/bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" /> <img src="https://img.shields.io/badge/bun-%23000000.svg?logo=bun&logoColor=white&style=for-the-badge" alt="Bun" /> <img src="https://img.shields.io/badge/graphql-%23e10098.svg?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL" /> <img src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" /> <img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge" alt="React" /> <img src="https://img.shields.io/badge/jquery-%230769ad.svg?logo=jquery&logoColor=white&style=for-the-badge" alt="jQuery" /> <img src="https://img.shields.io/badge/cloudflare-%23f38020.svg?logo=cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare" /> <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
 
-## 💻 Operating Systems
-
-<img src="https://img.shields.io/badge/arch%20linux-%231793d1.svg?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch Linux" /> ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) <img src="https://img.shields.io/badge/linux%20mint-%2387cf3e.svg?logo=linuxmint&logoColor=white&style=for-the-badge" alt="Linux Mint" /> <img src="https://img.shields.io/badge/debian-%23a81d33.svg?logo=debian&logoColor=white&style=for-the-badge" alt="Debian" /> <img src="https://img.shields.io/badge/ubuntu-%23e95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" /> <img src="https://img.shields.io/badge/android-%233ddc84.svg?logo=android&logoColor=white&style=for-the-badge" alt="Android" /> <img src="https://img.shields.io/badge/lineageos-%23167c80.svg?logo=lineageos&logoColor=white&style=for-the-badge" alt="LineageOS" /> <img src="https://img.shields.io/badge/ios-%23000000.svg?logo=ios&logoColor=white&style=for-the-badge" alt="iOS" />
-
-## 📊 GitHub Stats
-
-![AtelierMizumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtelierMizumi&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AtelierMizumi&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-## ☕ Support My Work
-
-If you find my projects helpful or interesting, consider supporting me (I'm very hungii):
 
 <a href="https://www.buymeacoffee.com/thuanc177" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
