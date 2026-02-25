@@ -110,10 +110,10 @@ fun_facts:
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <br />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtelierMizumi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-drab-94.vercel.app/api?username=AtelierMizumi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtelierMizumi&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <br /><br />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtelierMizumi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10" alt="Top Languages" />
+  <br />
+  <img width="49%" src="https://github-readme-stats-eight-drab-94.vercel.app/api/top-langs/?username=AtelierMizumi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
  
 ---
