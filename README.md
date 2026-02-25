@@ -32,16 +32,10 @@ education: Software Engineering Student
 fields_of_interest:
   - "Fullstack Web Development"
   - "Mobile App Development (Flutter / Kotlin)"
-  - "System Programming (Rust / C / C++)"
+  - "System Programming (C / C++)"
   - "Linux System Administration & Ricing"
   - "Embedded Systems & IoT (ZMK Firmware)"
   - "AI & Data Analytics"
-
-currently_working_on:
-  - "FFmpeg Converter App (Dart/Flutter)"
-  - "mizu-fetch (Rust system info tool)"
-  - "NixOS KDE Configuration"
-  - "anime-cli (C terminal anime player)"
 
 currently_learning:
   - "Rust & Systems Architecture"
@@ -119,40 +113,6 @@ fun_facts:
 ---
 
 <div align="center">
-  <h2>📌 Featured Projects</h2>
-  <br />
-
-  <a href="https://github.com/AtelierMizumi/nixos-kde-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtelierMizumi&repo=nixos-kde-config&theme=radical&hide_border=true&bg_color=0D1117" alt="nixos-kde-config" />
-  </a>
-  <a href="https://github.com/AtelierMizumi/anime-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtelierMizumi&repo=anime-cli&theme=radical&hide_border=true&bg_color=0D1117" alt="anime-cli" />
-  </a>
-  <a href="https://github.com/AtelierMizumi/FFmpeg-Converter-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtelierMizumi&repo=FFmpeg-Converter-App&theme=radical&hide_border=true&bg_color=0D1117" alt="FFmpeg-Converter-App" />
-  </a>
-  <a href="https://github.com/AtelierMizumi/mizu-fetch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtelierMizumi&repo=mizu-fetch&theme=radical&hide_border=true&bg_color=0D1117" alt="mizu-fetch" />
-  </a>
-  <a href="https://github.com/AtelierMizumi/terminal-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtelierMizumi&repo=terminal-portfolio&theme=radical&hide_border=true&bg_color=0D1117" alt="terminal-portfolio" />
-  </a>
-  <a href="https://github.com/AtelierMizumi/nix-lms-answer-checker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtelierMizumi&repo=nix-lms-answer-checker&theme=radical&hide_border=true&bg_color=0D1117" alt="nix-lms-answer-checker" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=AtelierMizumi&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-</div>
-
----
-
-<div align="center">
   <h2>📊 GitHub Stats</h2>
   <br />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtelierMizumi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
@@ -179,14 +139,6 @@ fun_facts:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtelierMizumi/AtelierMizumi/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/AtelierMizumi/AtelierMizumi/output/github-snake-dark.svg" />
   </picture>
-</div>
-
----
-
-<div align="center">
-  <h2>💭 Random Dev Quote</h2>
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
