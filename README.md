@@ -7,13 +7,13 @@
 
   <br />
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-thuanc177.me-blue?style=for-the-badge&logo=vercel)](https://thuanc177.me)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-ateliermizumi.github.io-blue?style=for-the-badge&logo=vercel)](https://ateliermizumi.github.io)
   [![GitHub](https://img.shields.io/badge/GitHub-AtelierMizumi-black?style=for-the-badge&logo=github)](https://github.com/AtelierMizumi)
-  [![Email](https://img.shields.io/badge/Email-thuan.tran@thuanc177.me-red?style=for-the-badge&logo=gmail)](mailto:thuan.tran@thuanc177.me)
+  [![Email](https://img.shields.io/badge/Email-thuanc177@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:thuanc177@gmail.com)
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=AtelierMizumi&label=Profile%20Views&color=E24A68&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AtelierMizumi&label=Profile%20View%20Count&color=E24A68&style=for-the-badge" alt="Profile views" />
   
 </div>
 
@@ -24,8 +24,8 @@
 </div>
 
 ```yaml
-name: Minh Thuận Trần
-located_in: Đà Nẵng, Vietnam 🇻🇳
+name: Minh Thuan, Tran
+located_in: Da Nang, Vietnam 🇻🇳
 current_focus: Fullstack Development & System Programming
 education: Software Engineering Student
 
@@ -34,18 +34,13 @@ fields_of_interest:
   - "Mobile App Development (Flutter / Kotlin)"
   - "System Programming (C / C++)"
   - "Linux System Administration & Ricing"
-  - "Embedded Systems & IoT (ZMK Firmware)"
-  - "AI & Data Analytics"
 
 currently_learning:
   - "Rust & Systems Architecture"
   - "Cloud Deployments"
-  - "Qt/QML Development"
 
 fun_facts:
   - "I daily drive NixOS & Arch Linux btw 🐧"
-  - "I build custom keyboard firmware (ZMK)"
-  - "I translate games to Vietnamese 🎮"
 ```
 
 ---
@@ -120,15 +115,7 @@ fun_facts:
   <br /><br />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtelierMizumi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10" alt="Top Languages" />
 </div>
-
----
-
-<div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtelierMizumi&theme=redical&hide_border=true&bg_color=0D1117&color=E24A68&line=FE428E&point=F8D847" alt="Contribution Graph" />
-</div>
-
+ 
 ---
 
 <div align="center">
