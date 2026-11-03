@@ -46,6 +46,36 @@ fun_facts:
 ---
 
 <div align="center">
+  <h2>📌 Featured Projects</h2>
+</div>
+
+<p align="center">
+  <a href="https://github.com/AtelierMizumi/KotobaFlow">
+    <img width="49%" src="https://github-readme-stats-eight-drab-94.vercel.app/api/pin/?username=AtelierMizumi&repo=KotobaFlow&theme=radical&hide_border=true&bg_color=0D1117" alt="KotobaFlow" />
+  </a>
+  <a href="https://github.com/AtelierMizumi/riceboot">
+    <img width="49%" src="https://github-readme-stats-eight-drab-94.vercel.app/api/pin/?username=AtelierMizumi&repo=riceboot&theme=radical&hide_border=true&bg_color=0D1117" alt="riceboot" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AtelierMizumi/clawd-kitchen">
+    <img width="49%" src="https://github-readme-stats-eight-drab-94.vercel.app/api/pin/?username=AtelierMizumi&repo=clawd-kitchen&theme=radical&hide_border=true&bg_color=0D1117" alt="clawd-kitchen" />
+  </a>
+  <a href="https://github.com/AtelierMizumi/osu-farm-downloader">
+    <img width="49%" src="https://github-readme-stats-eight-drab-94.vercel.app/api/pin/?username=AtelierMizumi&repo=osu-farm-downloader&theme=radical&hide_border=true&bg_color=0D1117" alt="osu-farm-downloader" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AtelierMizumi/nixos-kde-config">
+    <img width="49%" src="https://github-readme-stats-eight-drab-94.vercel.app/api/pin/?username=AtelierMizumi&repo=nixos-kde-config&theme=radical&hide_border=true&bg_color=0D1117" alt="nixos-kde-config" />
+  </a>
+  <a href="https://github.com/AtelierMizumi/azurlane-daily-tools">
+    <img width="49%" src="https://github-readme-stats-eight-drab-94.vercel.app/api/pin/?username=AtelierMizumi&repo=azurlane-daily-tools&theme=radical&hide_border=true&bg_color=0D1117" alt="azurlane-daily-tools" />
+  </a>
+</p>
+
+
+<div align="center">
   <h2>🛠️ Tech Stack</h2>
   <br />
 
