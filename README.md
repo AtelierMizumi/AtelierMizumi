@@ -9,7 +9,7 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-ateliermizumi.github.io-blue?style=for-the-badge&logo=vercel)](https://terminal-portfolio-git-main-ateliermizumis-projects.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-AtelierMizumi-black?style=for-the-badge&logo=github)](https://github.com/AtelierMizumi)
-  [![Email](https://img.shields.io/badge/Email-thuanc177@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:thuanc177@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-me@minhthuan.dev-red?style=for-the-badge&logo=gmail)](mailto:me@minhthuan.dev)
 
   <br />
 
